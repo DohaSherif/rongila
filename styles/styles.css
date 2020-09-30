@@ -1,0 +1,15 @@
+:root{
+--color1 : #fafafa;
+--color2 : #5d5b60;
+--color3 : #e1c6bf;
+--color4 : #fec9a7;
+--color5 : #e9e8f6;
+--color6 : #eeeeee;
+--color7 : #ff7000;
+--color8 : #f0f0f0;
+}
+
+@font-face{
+    font-family: 'IBM Plex';
+    src: url(../assets/fonts/IBM_Plex/IBMPlexSansCondensed-Medium.ttf);
+}
